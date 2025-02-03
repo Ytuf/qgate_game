@@ -1,5 +1,8 @@
 # Quantum Gate Game
-A simple game to help those learning quantum computing to familiarize themselves with how quantum gates affect qubits. Quantum gates from the game [Qubit Touchdown](https://www.thegamecrafter.com/games/qubit-touchdown) are randomly supplied, and the player must apply these gates to a qubit following a Bloch Sphere (I recommend using a tennis ball).
+A simple game to help those learning quantum computing to reinforce how quantum gates affect qubits. Quantum gates from the game [Qubit Touchdown](https://www.thegamecrafter.com/games/qubit-touchdown) are randomly supplied, and the player must apply these gates to a qubit following a Bloch Sphere (I recommend using a tennis ball).
+
+This game does not teach how the game works, it simply allows you to practice and cement an existing undertanding. 
+kherb27's [Bloch Sphere Simulator](<img src="drawing.jpg" alt="drawing" width="200"/>) is a great resource for learning how each gate changes the state of the qubit.
 
 <img src="images/bloch_sphere.png" alt="bloch_sphere" width="300"/>
 
