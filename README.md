@@ -6,7 +6,7 @@ A simple game to help those learning quantum computing to familiarize themselves
 ## How to launch
 With Python, you can simply execute run.py. Example call from within the "py" folder- `python3 run.py` 
 
-Those without Python experience can navifate to the "dist" folder and run the windows executable "qgate_game.exe"
+Those without Python experience can navigate to the "dist" folder and run the windows executable "qgate_game.exe"
 
 ## Game modes
 There are currently two gamemode - Normal and Rapidfire.
